@@ -1,0 +1,9 @@
+name: Nussknacker
+logoUrl: https://nussknacker.io/wp-content/uploads/2021/10/Nussknacker-logo-black.svg
+website: https://nussknacker.io
+description: Low-code tool for automating actions on real time data | Stream processing for the users.
+scala3AdoptionStatus: null
+category: OSS project
+size: 714 # GitHub stars
+sources:
+  - https://github.com/TouK/nussknacker - 74% Scala as of 2026-03-28

@@ -1,0 +1,11 @@
+name: Snowflake
+logoUrl: https://avatars.githubusercontent.com/u/6453780
+website: https://www.snowflake.com
+description: Cloud data platform.
+scala3AdoptionStatus: null
+category: product company
+size: 9000
+sources:
+  - Acquired TouK (Scala/Nussknacker team) in 2023 to expand engineering in Poland. - https://www.snowflake.com/en/blog/snowflake-expands-engineering-team-in-poland/
+  - https://github.com/snowflakedb/spark-snowflake
+  - https://github.com/snowflakedb/snowpark-java-scala
