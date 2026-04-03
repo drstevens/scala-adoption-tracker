@@ -1,0 +1,9 @@
+name: DHL eCommerce Nederland
+logoUrl: https://avatars.githubusercontent.com/u/10200069
+website: https://www.dhlecommerce.nl
+description: ""
+scala3AdoptionStatus: null
+category: product company
+size: 2000 # arbitrary estimate, whole DHL would be misleading. LI has 1.5k associated members
+sources:
+  - https://www.linkedin.com/jobs/view/4392931438/ - Scala developer role mentioning Kafka, ZIO, Docker
