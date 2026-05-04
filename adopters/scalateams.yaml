@@ -1,0 +1,11 @@
+name: Scala Teams
+logoUrl: https://images.squarespace-cdn.com/content/v1/61dc7295ac4a711734dcd82b/fe28c355-9eb4-4be1-a2b5-c4b75a72318a/scala-teams-logo-square.png?format=750w
+website: https://www.scalateams.com/
+description: Scala-focused development company offering staff augmentation and project outsourcing for backend systems, data platforms, and AI/ML.
+scala3AdoptionStatus: full
+category: consulting company
+size: 60
+sources:
+  - https://www.scalateams.com/
+  - https://github.com/scalateams
+  - https://www.scalateams.com/blog
