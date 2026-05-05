@@ -1,0 +1,9 @@
+name: Rudder.io
+logoUrl: https://www.rudder.io/wp-content/uploads/2021/08/logo-rudder-2021.svg
+website: https://rudder.io
+description: "Rudder.io is a cyber platform that helps you own and automate your security posture"
+scala3AdoptionStatus: full
+category: product company
+size: 650
+sources:
+  - https://github.com/Normation/rudder/
